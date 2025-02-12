@@ -1,5 +1,5 @@
 # Preview
-![Project Preview](./CategoryTasker/task.png)
+![Project Preview](./task.png)
 
 # Getting Started with Create React App
 
